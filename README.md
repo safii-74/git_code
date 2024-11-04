@@ -1,2 +1,2 @@
 # git_code
-for learning
+for self learning
